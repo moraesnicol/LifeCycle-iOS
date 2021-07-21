@@ -2,7 +2,7 @@
 
          
 <p align="center">
-   <img src="https://github.com/moraesnicol/tinder_iOS/blob/main/swift.png" alt="swift" width="300"/>
+   <img src="https://github.com/moraesnicol/LifeCycle-iOS/blob/main/1.png" alt="swift" width="300"/>
 </p>
 
 <p align="center">
