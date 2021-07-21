@@ -21,7 +21,7 @@
 
 # :coffee: About
 
-An example about  iOS lifeCycle
+An example of  iOS LifeCycle
 
 # 📌 Contents
 
